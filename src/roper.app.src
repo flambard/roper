@@ -1,0 +1,16 @@
+{application, 'roper',
+ [{description, "Rope data structure implementation for Erlang/OTP"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [ kernel
+   , stdlib
+   , proper
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {contributors, []},
+  {licenses, []},
+  {links, []}
+ ]}.
